@@ -1,10 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using static System.Console;
-                                                                                                                                                
-              
 
-
-                    
 Console.WriteLine("Hello, World!");
 Console.WriteLine("Christopher Maurice");
 Console.WriteLine("Version: {0}", Environment.Version.ToString());
@@ -22,7 +18,7 @@ names[1] = "Jack";
 names[2] = "Rebecca";
 names[3] = "Tom";
 
-string[] names2 = new[] { "Kate", "Jack", "Rebecca", "Tom" };
+string[] names2 = new[] { "Kate", "Jack", "Rebecca", "Alex" };
 
 // looping through the names
 for (int i = 0; i < names2.Length; i++)
